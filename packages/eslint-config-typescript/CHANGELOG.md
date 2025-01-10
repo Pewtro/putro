@@ -1,5 +1,11 @@
 # ESLint config for typescript changelog
 
+## 3.16.1
+
+### Patch Changes
+
+- a57e908: Update @typescript-eslint/utils and typescript-eslint to 8.19.1
+
 ## 3.16.0
 
 ### Minor Changes
